@@ -1,6 +1,6 @@
 # 数字绘画光效
 
-复现SIGGRAPH 2020论文 [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/)
+复现TOG 2020论文 [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/)
 
 为数字绘画（自然照片也是可以的）生成重光照的效果，没有使用深度学习，很有趣的一个方法！
 
